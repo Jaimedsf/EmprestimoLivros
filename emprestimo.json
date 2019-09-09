@@ -1,0 +1,156 @@
+{
+    "usuarios": [
+      {
+        "nome": "Ana",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "idade": "20"
+      },
+      {
+        "nome": "João",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "idade": "30"
+      },
+      {
+        "nome": "Maria",
+        "cidade": "Eusébio",
+        "estado": "CE",
+        "idade": "28"
+      },
+      {
+        "nome": "Ana Maria",
+        "cidade": "Mossoró",
+        "estado": "RN",
+        "idade": "42"
+      },
+      {
+        "nome": "Pedro",
+        "cidade": "Natal",
+        "estado": "RN",
+        "idade": "30"
+      },
+      {
+        "nome": "Maria Luiza",
+        "cidade": "Recife",
+        "estado": "PE",
+        "idade": "38"
+      },
+      {
+        "nome": "Paulo",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "idade": "25"
+      },
+      {
+        "nome": "Joao Pedro",
+        "cidade": "Sobral",
+        "estado": "CE",
+        "idade": "30"
+      },
+      {
+        "nome": "Maria Clara",
+        "cidade": "Maracanaú",
+        "estado": "CE",
+        "idade": "28"
+      },
+      {
+        "nome": "Flávi0",
+        "cidade": "Fortaleza",
+        "estado": "CE",
+        "idade": "50"
+      },
+      {
+        "nome": "Paulo",
+        "cidade": "Recife",
+        "estado": "PE",
+        "idade": "30"
+      },
+      {
+        "nome": "João",
+        "cidade": "Mossoró",
+        "estado": "RN",
+        "idade": "28"
+      }
+    ],
+    "livros": [
+      {
+        "nome": "Java Script",
+        "valor": "30",
+        "quantidade": "50",
+        "editora": "Epica",
+        "ano":"2002",
+        "isbn":"123BC4F3456"
+      },
+      {
+        "nome": "Programação para Web",
+        "valor": "140",
+        "quantidade": "40",
+        "editora": "Epica2",
+        "ano":"2005",
+        "isbn":"234CD5G4567"
+      },
+      {
+        "nome": "Lógica de Programação",
+        "valor": "60",
+        "quantidade": "56",
+        "editora": "Epica3",
+        "ano":"2010",
+        "isbn":"345DE6H5678"
+      },
+      {
+        "nome": "Banco de Dados",
+        "valor": "120",
+        "quantidade": "60",
+        "editora": "Epica",
+        "ano":"2008",
+        "isbn":"456EH7I6789"
+      },
+      {
+        "nome": "HTML e CSS em prática",
+        "valor": "130",
+        "quantidade": "20",
+        "editora": "Epica2",
+        "ano":"2014",
+        "isbn":"567EF7J7790"
+      },
+      {
+        "nome": "Big Data NoSql",
+        "valor": "120",
+        "quantidade": "10",
+        "editora": "Epica3",
+        "ano":"2016",
+        "isbn":"678FG8K8801"
+      }
+    ],
+    "emprestimos" : [
+      {
+        "idCliente" : "1",
+        "idProduto" : "2",
+        "quantidade" : "10",
+        "data" : "16/10/2018",
+        "situacao" : "enviado"
+      },
+      {
+        "idCliente" : "9",
+        "idProduto" : "2",
+        "quantidade" : "10",
+        "data" : "01/10/2018",
+        "situacao" : "finalizado"
+      },
+      {
+        "idCliente" : "1",
+        "idProduto" : "2",
+        "quantidade" : "10",
+        "data" : "16/10/2018",
+        "situacao" : "cancelado"
+      },
+      {
+        "idCliente" : "10",
+        "idProduto" : "2",
+        "quantidade" : "10",
+        "data" : "09/10/2018",
+        "situacao" : "recebido"
+      }
+    ]
+  }
